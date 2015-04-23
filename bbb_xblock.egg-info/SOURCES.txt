@@ -1,0 +1,12 @@
+bbb/__init__.py
+bbb/bbb.py
+bbb/static/README.txt
+bbb/static/css/bbb.css
+bbb/static/html/bbb.html
+bbb/static/js/src/bbb.js
+bbb_xblock.egg-info/PKG-INFO
+bbb_xblock.egg-info/SOURCES.txt
+bbb_xblock.egg-info/dependency_links.txt
+bbb_xblock.egg-info/entry_points.txt
+bbb_xblock.egg-info/requires.txt
+bbb_xblock.egg-info/top_level.txt

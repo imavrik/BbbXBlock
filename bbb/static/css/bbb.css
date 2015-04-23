@@ -1,0 +1,9 @@
+/* CSS for BbbXBlock */
+
+.bbb_block .count {
+    font-weight: bold;
+}
+
+.bbb_block p {
+    cursor: pointer;
+}
